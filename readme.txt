@@ -1,9 +1,10 @@
 int main()
 {
-	return 0;
+	return 1;
 {
 
 void test()
 {
+	cout << "hello world" <<;
 }
 
