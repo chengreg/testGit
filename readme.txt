@@ -6,5 +6,8 @@ int main()
 void test()
 {
 	cout << "hello world" <<;
+
+cout
+
 }
 
